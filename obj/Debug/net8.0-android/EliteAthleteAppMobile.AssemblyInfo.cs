@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EliteAthleteAppMobile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+e1ab8dff452007a821c7813d845588ce634a3bce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+dec81ad0e1fa5f961c6f6a1b17d5f72b8dd7874b")]
 [assembly: System.Reflection.AssemblyProductAttribute("EliteAthleteAppMobile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EliteAthleteAppMobile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
